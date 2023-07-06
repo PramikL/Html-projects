@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: black;
+  background-image: url("Amazon-Rain-Forest.jpg");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 150px;
+}
+
+h1 {
+  font-size: 50px;
+  color: powderblue;
+}
+
+#countdown {
+  font-size: 20px;
+  color: whitesmoke;
+  margin-top: 40px;
+}
